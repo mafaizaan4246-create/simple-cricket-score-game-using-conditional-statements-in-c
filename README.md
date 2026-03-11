@@ -1,5 +1,3 @@
-# simple-cricket-score-game-using-conditional-statements-in-c
-I've made a simple cricket score game using conditional statements using c language and where you can give the input to get to know about how many runs you've scored in a single ball
 # Cricket Runs Analyzer (C Program)
 
 This is a simple C program that simulates scoring in a cricket match for a single ball. The program asks the user whether the delivery included extras (Wide/No Ball) and the number of runs scored (0–6). Based on the input, it displays the appropriate cricket scoring message.
